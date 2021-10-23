@@ -215,4 +215,4 @@ client.on("ready", () => {
    console.log(` ${bot.user.tag} ready`); 
 });
 
-bot.login(process.env.TOKEN);
+bot.login(""OTAxMzUwMzM3MTQ1ODgwNTc2.YXOl6g.Tg59hBo6HtxirtdBidmQ1kqVb_M);
